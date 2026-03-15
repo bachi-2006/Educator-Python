@@ -1,0 +1,7 @@
+streamlit
+langchain
+openai
+pandas
+numpy
+# Add Gemini API SDK dependency here if available, e.g.
+# gemini-api-sdk
